@@ -1,0 +1,3 @@
+{"version":"1.2.8","db_type":"idb","start_time":"2024-04-22T16:28:02.756Z","db_info":{"doc_count":1,"update_seq":2,"idb_attachment_format":"binary","db_name":"project-data","auto_compaction":false,"adapter":"idb"}}
+{"docs":[{"projectName":"someProject","_id":"projectSetup","_rev":"2-15d35749b0c754a09b949b78b48603b4","_revisions":{"start":2,"ids":["15d35749b0c754a09b949b78b48603b4","344bea22c8240fc1bf93a0afdaa19dc3"]}}]}
+{"seq":2}
